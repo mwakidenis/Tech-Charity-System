@@ -138,7 +138,7 @@ graph TB
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/lewiii254/Tech-donations.git
+git clone https://github.com/mwakidenis/Tech-donations.git
 cd Tech-donations
 ```
 
@@ -264,4 +264,4 @@ flowchart TD
     class J,K terminal
     class D,F,H error
 ```
-**Made with ❤️ by Mwaki Denis**
+**Made with lots of ❤️ by Mwaki Denis**
