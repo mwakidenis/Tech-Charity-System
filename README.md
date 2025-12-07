@@ -138,7 +138,7 @@ graph TB
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mwakidenis/Tech-donations.git
+git clone https://github.com/mwakidenis/Tech-Charity-System.git
 cd Tech-donations
 ```
 
